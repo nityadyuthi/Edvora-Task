@@ -1,0 +1,31 @@
+{
+  "name": "internship-task",
+  "version": "1.0.0",
+  "description": "Edvora Internship Task",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Authentication",
+    "API"
+  ],
+  "author": "Dyuthi",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.4"
+  }
+}
